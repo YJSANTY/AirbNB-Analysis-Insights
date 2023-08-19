@@ -27,19 +27,14 @@ Correlation analysis is a method used to evaluate the strength and direction of 
 
 # Sentimental Analysis
 ![Screenshot (205)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/08e1fc7b-0169-411c-b766-b9765be92c62)
-
-![Uploading Screenshot (206).png…]()![Uploading Screenshot (208).png…]()
-
 ![Screenshot (207)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/505e14f0-867a-4a94-b861-89b6e0a53f9c)
-
-
 ![Screenshot (209)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/a8203798-a5df-479d-b208-ccba4b9b99b3)
 ![Screenshot (208)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/201e3808-be5f-4ba8-b2e2-8ac8fa80d3e9)
 ![Screenshot (207)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/308034ac-099c-4458-ac5c-98abcc737dcd)
 ![Screenshot (206)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/2daaf9d6-fc87-4cee-8e22-989c1693f9fa)
-
 ![Screenshot (209)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/5baaa903-2374-440f-88d1-fe8c7fd21c66)
 ![Screenshot (210)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/888952f9-8182-4eea-970a-4dda6a24512b)
 
-
+# LDA Topic Modeling
+![Screenshot (212)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/ecf443e8-d6e7-40d9-83b6-cc9707f387dc)
 
