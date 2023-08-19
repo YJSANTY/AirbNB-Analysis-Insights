@@ -19,12 +19,27 @@ Topic modeling will be used to determine the main themes or topics covered in th
 Correlation analysis is a method used to evaluate the strength and direction of the linear relationship between two quantitative variables. When it comes to sentiment analysis, the sentiment (often quantified as a score between -1 and 1 or 0 and 1) can be correlated with other quantitative factors to understand relationships.
 # Correlation Analysis
 ![Screenshot (199)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/2c49c028-522d-419b-85c3-4fd020fce6ad)
-![Uploading Screenshot (198).png…]()
+![Screenshot (198)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/4ff2de94-6a6e-4f6e-881b-2472da7500ae)
 ![Screenshot (204)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/f5caf55f-3981-476d-955b-e96f77c8b87f)
-![Uploading Screenshot (203).png…]()
 ![Screenshot (202)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/34566447-8cfa-42eb-aced-45ed96dfcf9f)
 ![Screenshot (201)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/bacdee3c-cb00-4975-9adc-e561e3c8fa90)
-![Uploading Screenshot (200).png…]()
+![Screenshot (197)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/703d199d-a124-46e3-b9b1-ae453a4e7fff)
 
 # Sentimental Analysis
+![Screenshot (205)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/08e1fc7b-0169-411c-b766-b9765be92c62)
+
+![Uploading Screenshot (206).png…]()![Uploading Screenshot (208).png…]()
+
+![Screenshot (207)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/505e14f0-867a-4a94-b861-89b6e0a53f9c)
+
+
+![Screenshot (209)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/a8203798-a5df-479d-b208-ccba4b9b99b3)
+![Screenshot (208)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/201e3808-be5f-4ba8-b2e2-8ac8fa80d3e9)
+![Screenshot (207)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/308034ac-099c-4458-ac5c-98abcc737dcd)
+![Screenshot (206)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/2daaf9d6-fc87-4cee-8e22-989c1693f9fa)
+
+![Screenshot (209)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/5baaa903-2374-440f-88d1-fe8c7fd21c66)
+![Screenshot (210)](https://github.com/YJSANTY/AirbNB-Analysis-Insights/assets/115713790/888952f9-8182-4eea-970a-4dda6a24512b)
+
+
 
